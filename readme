@@ -1,0 +1,3 @@
+#Start Servre
+
+go run server.go
